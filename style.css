@@ -77,16 +77,6 @@ h2{
     background-color: blue;
     margin: 10px 20px 30px 20px ;
 }
-.form__button--add-task:hover{
-    width: 90%;
-    height: 45px;
-    border-radius: 8px;
-    color: black;
-    background-color: blue;
-    border: 2px solid black;
-    margin: 10px 20px 30px 20px ;
-}
-
 
 .form__input--text{
     width: 53%;
@@ -175,12 +165,4 @@ select{
     background-color: none;
     height: 20px;
     border: none;
-}
-
-.task__button--remove-task:hover{
-    background-image: url(assets/trash-icon.svg);
-    background-repeat: no-repeat;
-    background-color: none;
-    height: 20px;
-    border: 1px solid white;
 }
